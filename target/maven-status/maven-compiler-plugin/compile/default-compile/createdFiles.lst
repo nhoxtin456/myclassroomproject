@@ -1,0 +1,4 @@
+com\example\myclassroomproject\model\ClassRoom.class
+com\example\myclassroomproject\repository\ClassRoomService.class
+com\example\myclassroomproject\controller\ClassRoomController.class
+com\example\myclassroomproject\MyclassroomprojectApplication.class
